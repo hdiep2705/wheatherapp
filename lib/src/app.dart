@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:wheatherapp/src/modules/home/home_page.dart';
 
-import 'package:wheatherapp/src/router/page_route.dart';
+import 'package:wheatherapp/src/router/page_router.dart';
 import 'package:wheatherapp/src/theme/themes.dart';
 
 class MyApp extends StatelessWidget {
